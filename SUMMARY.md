@@ -14,5 +14,6 @@
 * [6. Technical Solution](6.-technical-solution/README.md)
   * [Implementing the Desktop Application](6.-technical-solution/implementing-the-desktop-application.md)
   * [Implementing the Mobile Application](6.-technical-solution/implementing-the-mobile-application.md)
-* [7. Testing](7.-testing.md)
+* [7. Testing](7.-testing/README.md)
+  * [Evidence of Testing](7.-testing/evidence-of-testing.md)
 * [8. Evaluation](8.-evaluation.md)

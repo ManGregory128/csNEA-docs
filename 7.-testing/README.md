@@ -1,5 +1,7 @@
 # 7. Testing
 
+The following tests were carried out and their actual outcome recorded:
+
 | **Test no.** | **Form/Page**             | **Purpose**                                                                                                                                                         | **Test Data**                                                                                                | **Expected Outcome**                                               | **Type**  | **Actual Outcome**                                                          |
 | ------------ | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | --------- | --------------------------------------------------------------------------- |
 | **1**        | Login                     | Check that a connection to the database can be established                                                                                                          | Database address: “csnea.database.windows.net”,Database password: “]JKfpLZSp=8Qd\*NM”                        | Connection to database is established                              | Normal    | Connection to DB is established                                             |
@@ -37,9 +39,3 @@
 | **33**       | Administrator             | Check that a non-empty post text has been provided                                                                                                                  | Post text: “”                                                                                                | The post is not sent to the database                               | Erroneous | Message Box: “The post will not be uploaded”                                |
 | **34**       | Mobile – Main             | Check that the current password and new passwords result in the password being changed                                                                              | Logged in user: georgiagre, current password - “test”, new password - “testnew”, repeat password - “testnew” | The user’s password is changed                                     | Normal    | The user’s password is changed                                              |
 | **35**       | Mobile – Main             | Check that the feed posts are fetched on launch                                                                                                                     | Logged in user: georgiagre                                                                                   | The posts are fetched                                              | Normal    | The posts are fetched                                                       |
-
-### Evidence of Testing
-
-**Test 1:**
-
-Checking that a connection to the database can be established with the correct database URL and Password:

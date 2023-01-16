@@ -60,6 +60,6 @@ Welcome to the documentation of the attendance-taking software I developed as pa
 
 6.3.2. Implementing the Mobile Application
 
-### [7. Testing](7.-testing.md)
+### [7. Testing](7.-testing/)
 
 ### [8. Evaluation](8.-evaluation.md)
