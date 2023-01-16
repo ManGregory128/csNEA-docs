@@ -18,4 +18,4 @@ This section of the chapter is split into two sub-sections, both of which can be
 
 #### ****[**6.3.1. Implementing the Desktop Application**](implementing-the-desktop-application.md)****
 
-**6.3.2. Implementing the Mobile Application**
+****[**6.3.2. Implementing the Mobile Application**](implementing-the-mobile-application.md)****
