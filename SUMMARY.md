@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [1. Background and Identification of the Problem](1.-background-and-identification-of-the-problem.md)
+* [2. Interview With the Client](2.-interview-with-the-client.md)
+* [3. Chosen Solution](3.-chosen-solution.md)
+* [4. Concept Flowcharts](4.-concept-flowcharts.md)
+* [5. Documented Design](5.-documented-design/README.md)
+  * [5.1. Identifying Suitable Algorithms](5.-documented-design/5.1.-identifying-suitable-algorithms.md)
+  * [5.2. Designing the Database](5.-documented-design/5.2.-designing-the-database.md)
+  * [5.3. Identifying Suitable Validation](5.-documented-design/5.3.-identifying-suitable-validation.md)
+  * [5.4. Designing the Graphical User Interface (GUI)](5.-documented-design/5.4.-designing-the-graphical-user-interface-gui.md)
+  * [5.5. Test Plan](5.-documented-design/5.5.-test-plan.md)
+* [6. Technical Solution](6.-technical-solution/README.md)
+  * [Implementing the Desktop Application](6.-technical-solution/implementing-the-desktop-application.md)
+  * [Implementing the Mobile Application](6.-technical-solution/implementing-the-mobile-application.md)
+* [7. Testing](7.-testing.md)
+* [8. Evaluation](8.-evaluation.md)
